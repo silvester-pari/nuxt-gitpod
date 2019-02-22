@@ -1,2 +1,2 @@
 # nuxt-gitpod
-A nuxt playground based for gitpod
+A nuxt & buefy playground based on gitpod
